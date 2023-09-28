@@ -1,12 +1,15 @@
-using System;
+﻿using System;
 using System.Text.RegularExpressions;
 
 class Program
 {
     static void Main()
     {
-        string input = "example@email.com";
+        // Pregunta inicial
+        Console.WriteLine("Tipea tu cadena de texto/url/correo válido.");
+        string input = Console.ReadLine();
         
+        // Condiciones para la validacion de cadenas
         if (IsEmail(input))
         {
             Console.WriteLine("Es una dirección de correo electrónico");
@@ -19,6 +22,7 @@ class Program
         {
             Console.WriteLine("Es una cadena de texto.");
         }
+        else
         {
             Console.WriteLine("No es ni una dirección de correo, ni una URL, ni texto.");
         }
