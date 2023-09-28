@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bjChHlxkt1AmpsW1aSWe3lsVVMyGZ5VvQplBdxITbp9/XZOkN/FlrW5kLwl0KXPuU4IKT5efRPazLEVXX3mXnw==",
+  "success": true,
+  "projectFilePath": "E:\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\Lector de cadenas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Edu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

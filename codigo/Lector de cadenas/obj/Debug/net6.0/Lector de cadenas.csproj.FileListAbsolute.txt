@@ -1,0 +1,15 @@
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\bin\Debug\net6.0\Lector de cadenas.exe
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\bin\Debug\net6.0\Lector de cadenas.deps.json
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\bin\Debug\net6.0\Lector de cadenas.runtimeconfig.json
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\bin\Debug\net6.0\Lector de cadenas.dll
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\bin\Debug\net6.0\ref\Lector de cadenas.dll
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\bin\Debug\net6.0\Lector de cadenas.pdb
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\obj\Debug\net6.0\Lector de cadenas.csproj.AssemblyReference.cache
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\obj\Debug\net6.0\Lector de cadenas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\obj\Debug\net6.0\Lector de cadenas.AssemblyInfoInputs.cache
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\obj\Debug\net6.0\Lector de cadenas.AssemblyInfo.cs
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\obj\Debug\net6.0\Lector de cadenas.csproj.CoreCompileInputs.cache
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\obj\Debug\net6.0\Lector de cadenas.dll
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\obj\Debug\net6.0\ref\Lector de cadenas.dll
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\obj\Debug\net6.0\Lector de cadenas.pdb
+E:\Edu\Documents\GitHub\lenguajes-automatas\codigo\Lector de cadenas\obj\Debug\net6.0\Lector de cadenas.genruntimeconfig.cache
