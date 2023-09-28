@@ -7,18 +7,19 @@ class Program
     {
         // Pregunta inicial
         Console.WriteLine("Tipea tu cadena de texto/url/correo válido.");
-        string input = Console.ReadLine();
+        // Capturando la cadena tipeada
+        string cadena = Console.ReadLine();
         
         // Condiciones para la validacion de cadenas
-        if (IsEmail(input))
+        if (IsEmail(cadena))
         {
             Console.WriteLine("Es una dirección de correo electrónico");
         }
-        else if (IsURL(input))
+        else if (IsURL(cadena))
         {
             Console.WriteLine("Es una URL");
         }
-        else if (IsText(input))
+        else if (IsText(cadena))
         {
             Console.WriteLine("Es una cadena de texto.");
         }
@@ -29,20 +30,20 @@ class Program
     }
 
     // Lectura de la funcion para detectar el correo electronico
-    static bool IsEmail(string input)
+    static bool IsEmail(string cadena)
     {
         string patronCorreo = @"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$";
-        return Regex.IsMatch(input, patronCorreo);
+        return Regex.IsMatch(cadena, patronCorreo);
     }
     // Lectura de la funcion para detectar una URL
-    static bool IsURL(string input)
+    static bool IsURL(string cadena)
     {
         string patronURL = @"^(http|https)://([\w-]+\.)+[\w-]+(/[\w- ./?%&=]*)?$";
-        return Regex.IsMatch(input, patronURL);
+        return Regex.IsMatch(cadena, patronURL);
     }
     // Lectura de la funcion para detectar cadena de texto
-    static bool IsText(string input)
+    static bool IsText(string cadena)
     {
-        return !string.IsNullOrWhiteSpace(input) && input.All(c => Char.IsLetter(c) || Char.IsWhiteSpace(c));
+        return !string.IsNullOrWhiteSpace(cadena) && cadena.All(c => Char.IsLetter(c) || Char.IsWhiteSpace(c));
     }
 }
