@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bjChHlxkt1AmpsW1aSWe3lsVVMyGZ5VvQplBdxITbp9/XZOkN/FlrW5kLwl0KXPuU4IKT5efRPazLEVXX3mXnw==",
+  "dgSpecHash": "62ZjCNBIZx0VoaTUxfd/7Gf8hifrfihdlWX7Sik5j+D6VyDXuNVivnkK4lBh6beMTS3XKffQfEmfDX9zQD31kg==",
   "success": true,
-  "projectFilePath": "E:\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\Lector de cadenas.csproj",
+  "projectFilePath": "c:\\Users\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\Lector de cadenas.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Edu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\Edu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+    "C:\\Users\\Edu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Edu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Edu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Edu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
   ],
   "logs": []
 }
