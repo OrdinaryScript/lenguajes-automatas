@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\Lector de cadenas.csproj": {}
+    "C:\\Users\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\Lector de cadenas.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\Lector de cadenas.csproj": {
+    "C:\\Users\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\Lector de cadenas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\Lector de cadenas.csproj",
+        "projectUniqueName": "C:\\Users\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\Lector de cadenas.csproj",
         "projectName": "Lector de cadenas",
-        "projectPath": "c:\\Users\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\Lector de cadenas.csproj",
+        "projectPath": "C:\\Users\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\Lector de cadenas.csproj",
         "packagesPath": "C:\\Users\\Edu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\obj\\",
+        "outputPath": "C:\\Users\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Edu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "62ZjCNBIZx0VoaTUxfd/7Gf8hifrfihdlWX7Sik5j+D6VyDXuNVivnkK4lBh6beMTS3XKffQfEmfDX9zQD31kg==",
+  "dgSpecHash": "06xQjsWmMcbgnHVACtKKWi7BIJiz1EJSNuH7GFORq08oJDpctZJ52x6qbuwEhON49BGaOiVPy1VHmnhi43lNcg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\Lector de cadenas.csproj",
+  "projectFilePath": "C:\\Users\\Edu\\Documents\\GitHub\\lenguajes-automatas\\codigo\\Lector de cadenas\\Lector de cadenas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Edu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
     "C:\\Users\\Edu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",

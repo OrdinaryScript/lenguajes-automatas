@@ -1,0 +1,20 @@
+class CustomYytoken {
+
+  public int counter;
+  public String text;
+  public String keyword;
+  public int lineNumber;
+  public long charNumber;
+
+  public CustomYytoken(int counter, String text, String keyword, int lineNumber, long charNumber) {
+      this.counter = counter;
+      this.text = text;
+      this.keyword = keyword;
+      this.lineNumber = lineNumber;
+      this.charNumber = charNumber;
+  }
+
+  public String toString() {
+      return "Counter: " + this.counter + " Text: " + this.text + " Keyword: " + this.keyword + " LineNumber: " + this.lineNumber + " CharNumber: " + this.charNumber;
+  }
+}
